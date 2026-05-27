@@ -4,7 +4,16 @@ Incremental lessons learning Zig.
 
 ## Prerequisites
 
-- Zig toolchain (`zig version`)
+- Zig toolchain
+
+### Install
+
+- macOS (Homebrew): `brew install zig`
+- Linux / Windows / other: download a prebuilt tarball from [ziglang.org/download](https://ziglang.org/download/)
+
+### Verify
+
+    zig version
 
 ## Lessons
 
